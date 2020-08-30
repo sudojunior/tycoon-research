@@ -33,7 +33,7 @@
 
 - [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSecFI1_nm8JM3kMcfpuq6xhNoU3Hph6eSNW3zrS3yr4jhaWxQ/viewform)
 - [Analysis Spreadsheet](https://docs.google.com/spreadsheets/d/1c0djZNzYRrlFaQvw0OabrHGA4P1nUP0ZQj88sO2qCt4/edit?usp=sharing)
-- [Job Page](https://dash.tycoon.community/wiki/Airline_Pilot)
+- [Job Page](https://dash.tycoon.community/wiki/index.php/Airline_Pilot)
 
 ## Included parameters
 

@@ -30,7 +30,7 @@
 
 - [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSeq4NRs0L7wY0QcxIcztkhYQhju3HZAGwpp9C7LXfT-XaWw4A/viewform)
 - [Analysis Spreadsheet](https://docs.google.com/spreadsheets/d/15Q1-G98eL9SSREzJSFYE1T4qyJ4M0Szy69uX_osalRg/edit?usp=sharing)
-- [Job Page](https://dash.tycoon.community/wiki/Helicopter_Pilot)
+- [Job Page](https://dash.tycoon.community/wiki/index.php/Helicopter_Pilot)
 
 ## Start locations
 
