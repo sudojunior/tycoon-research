@@ -11,4 +11,10 @@ The exact time is not an important factor, but is useful when debugging environm
 | `-----------------`                           | `---------------`                          |
 | [Drive Folder]                                |                                            |
 
+## Driver Credit
+
+It's covered in a rather rash state in the link from the table, but here's a link to the form anyway.
+
+[Form Link](https://docs.google.com/forms/d/e/1FAIpQLSewkXi33MQ0rF-rUxQ1ngqlT69juuc3nUPg2jfWH03aFIeWKw/viewform?usp=sf_link)
+
 [drive folder]: https://drive.google.com/drive/folders/1-iy5wa9tsJv6v5BeWVgO3xWQrUrqsuX1?usp=sharing
