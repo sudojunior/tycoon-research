@@ -6,7 +6,7 @@
 
 - 🚌 Bus Driver
 
-  - 📈 (Bus Driver) Spreadsheet now use ARRAYFORMULA across fields that repeat the same formula
+  - 📈 Spreadsheet now use ARRAYFORMULA across fields that repeat the same formula
     > This includes Boost calculation (using sheet matrix) and calculated earnings on reverse EXP
     
   - 🚧 Error handling on this new adaptation now returns an empty string
