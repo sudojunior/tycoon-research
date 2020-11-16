@@ -1,5 +1,19 @@
 # Changelog
 
+## v1.4
+
+> _16th November 2020_
+
+- 🚌 Bus Driver
+
+  - 📈 (Bus Driver) Spreadsheet now use ARRAYFORMULA across fields that repeat the same formula
+    > This includes Boost calculation (using sheet matrix) and calculated earnings on reverse EXP
+    
+  - 🚧 Error handling on this new adaptation now returns an empty string
+  
+  - 🚏 Stop data has been extracted and parsed based on the server configurations
+    > Though this may provide an additional metric, it does not narrow the angle on how the reward can be calculated outside of its native environment
+
 ## v1.3
 
 > _31st July 2020_
